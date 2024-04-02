@@ -1,0 +1,16 @@
+.post{display: flex; margin: 0 auto; justify-content: center; margin-top: 15px;}
+          .post-border{border: 1px solid lightgray; width: 500px;}
+          .post-header{display: flex;}
+          .post-header-date{font-size: smaller; margin-left:230px ;}
+          .post-img{ width: 500px; height: 350px; padding: 1px;}
+          .post-text{font-size: medium; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+          .post-2{display: flex; margin: 0 auto; justify-content: center; margin-top: 15px; margin-bottom: 15px;}
+          
+          .first-box{margin-bottom: 4px; display: flex; margin: 0 auto; justify-content: center;margin-top: 10px;}
+          .box-son{width: 425px; height: 300px}
+          .center-box-son{width: 425px; height: 300px; margin-left: 5px; margin-right: 5px;}
+      .second-box{margin-bottom: 10px; display: flex;margin:0 auto; justify-content: center; margin-top: 5px;}
+          .second-box-son{width: 425px; height: 300px; object-fit: cover;}
+      .third-box{display: flex;margin:0 auto; justify-content: center; margin-top: 5px;}
+          .third-box-son{width: 425px; height: 300px; object-fit:cover ; margin-right: 5px; margin-left: 5px;}
+          
